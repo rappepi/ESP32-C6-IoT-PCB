@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Lib projet")(type "KiCad")(uri "${KIPRJMOD}/Lib/lib.pretty")(options "")(descr "")(disabled))
+  (lib (name "Projet_Puissance")(type "KiCad")(uri "${KIPRJMOD}/Library/Projet_Puissance.pretty")(options "")(descr ""))
+)
